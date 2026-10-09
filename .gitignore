@@ -6,4 +6,5 @@ dist-ssr/
 tsconfig.tsbuildinfo
 .env
 .env.*
+!.env.example
 .DS_Store
